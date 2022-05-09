@@ -28,8 +28,12 @@ MI - 45%</h3>
 <h2> Details about the Match </h2>
 <p> We are here for Match 56 at the 2022 season of IPL! Match 56 is played at Dr. DY Patil Sports Academy, Navi Mumbai! A Struggling KKR go against a chaotic Mi. This will be a crucial win for KKR if they win. Punjab Kings' captain Mayank Agarwal vs KKR captain Shreyas Iyer. This will be the match of the Bottoms! Russel versus Tilak! Rabada versus Sunil Narine! Arshdeep versus Varun and many more experienced and young players. Will Rohit and Bumrah Find their Form! Will KKR Find a Dynamic Opener Duo!Will Tilak be able to carry his team? Tune in at 7:30 pm IST at Disney + Hotstar or Star Sports Network.
 In the previous match, CSK won against DC. You can Find My Summary of that Match Here <a href="https://github.com/Beyonder-Hari/CSK-vs-DC-IPL-2022-Match-55" CSK VS DC </a>
- <h2> Points Table and others </h2>
-  <a href="https://www.iplt20.com/points-table/men/2022">Points Table</a>
+ <h2> Points Table and General Stats </h2> <br>
+  <h3> <a href="https://www.iplt20.com/points-table/men/2022">Points Table</a> <h3>
  <h3> Orange and Purple caps </h3>
  <p> Orange Cap - Jos Buttler (RR) with 618 runs</p>
  <p> Purple Cap - Yuzvendra Chahal (RR) with 22 wickets and 1 hatrick</p>
+   <h2> Reference</h2>
+For more information, you can go to the official IPL website - <a href="https://www.iplt20.com">Click Me! </a>
+</body>
+</html>
