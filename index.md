@@ -5,7 +5,7 @@
 <body>
 <h1>Cricket Database</h1>
 <iframe src="https://bwidget.crictimes.org/" style="width:100%;min-height: 250px;" frameborder="0" scrolling="yes"></iframe>
-<h2>Upcoming match: Kolkata Knight Riders VS Mumbai Indians</h2>
+<h2>Kolkata Knight Riders VS Mumbai Indians</h2>
 <h3> Squad XI </h3>
 
 <h4> Kolkata Knight Riders - Venkatesh Iyer <br> Anjikya Rahane <br> Nitish Rana <br> Shreyas Iyer (C) <br>Rinku Singh <br> Andre Russell <br> Sunil Narine <br> Sheldon Jackson (wk) <br> Pat Cummins <br> Tim Southee<br> Varun Chakaravarthy
