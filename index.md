@@ -35,11 +35,11 @@ Match Report </a>
  <ul>
   <li> Cred Power Player of the Match - Venkatesh Iyer </li>
   <li> RuPay On the Go 4s of the Match - Ishan Kishan </li>
-  <li. Punch Super Striker of the Match - Venkatesh Iyer </li>
+  <li> Punch Super Striker of the Match - Venkatesh Iyer </li>
   <li> Unacademy Let's Crack it 6s of the Match - Venkatesh Iyer </li>
   <li> Dream 11 Game Changer of the Match - Jasprit Bumrah </li>
   <li>Swiggy Instamart Fastest Delivary of the Match - Jasprit Bumrah </li>
-  <li>Upstok Most Valuable Asset of the Match - Jasprit Bumrah ,/li>
+  <li>Upstox Most Valuable Asset of the Match - Jasprit Bumrah </li>
   <li> Man of the Match - Jasprit Bumrah </li>
  </ul>
  <h2> Points Table and General Stats </h2> 
